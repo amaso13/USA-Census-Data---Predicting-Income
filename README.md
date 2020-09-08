@@ -12,7 +12,7 @@ In this project, initially I will need to preprocess the data and then develop a
     c. Remove all white spaces from columns
  2. Data Manipulation, in this phase, I perform data manipulation to analyze the data set using various functions from the dplyr package.
  3. Data Visualization, here I will build several vizualisation including Bar-plot, Histogram, scatter-plot, using the ggplot2 library
- 4. Buid different model to predict income in USA based on the Census Income dataset. Models will include:simple Linear Regression, simple logistic Regression, Decision Tree and Random Forest 
+ 4. Buid different models to predict income in USA based on the Census Income dataset. Models will include:simple Linear Regression, simple logistic Regression, Decision Tree and Random Forest 
    
 
 
