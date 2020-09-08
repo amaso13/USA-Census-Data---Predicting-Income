@@ -1,4 +1,4 @@
-# USA Census-Data---Predicting-Income
+# USA Census Income---Predicting-Income
 In this project, I worked on the "Census Income" data set from the UCI Machine Learning Repository that contains the income information for over 48,000 individuals taken from the 1994 US census.
 for more details about this dataset, you can refer to the following link:
 https://archive.ics.uci.edu/ml/datasets/census+income
